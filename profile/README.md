@@ -1,5 +1,10 @@
-## jottocraft projects have moved to GitLab
+## jottocraft projects have moved
 
-Please [click here for information about open-source jottocraft projects](https://jottocraft.com/oss), or [click here to view all jottocraft GitLab repositories](https://gitlab.com/jottocraft).
+Please visit [jottocraft.com/oss](https://jottocraft.com/oss) to learn about open source jottocraft projects and how to contribute.
 
-*This GitHub account remains active solely to keep old links and some tools that require GitHub working. Repositories here are either archived or mirrored from GitLab when needed. Please do not engage with this account (issues, PRs, etc.) since they will not be seen.*
+jottocraft projects can be found at:
+
+- [src.jottocraft.com](https://src.jottocraft.com/browser/) for mainline projects
+- [gitlab.com/jottocraft](https://gitlab.com/jottocraft) for forks, small one-off repositories, and archived projects
+
+*This GitHub account remains active solely to keep old links and some tools that require GitHub working. Repositories here are either archived or mirrored when needed. Please do not engage with this account (issues, PRs, etc.) since this account is not monitored.*
